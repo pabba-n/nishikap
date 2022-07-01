@@ -1,0 +1,14 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    letter-spacing: 10px;
+    text-align: center;
+} 
+body {
+    text-align: center;
+    background-color: #FFEBEB
+}
+img.resize {
+    width:20%; /* you can use % */
+    height: auto;
+}
