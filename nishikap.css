@@ -6,9 +6,9 @@ h1{
 } 
 body {
     text-align: center;
-    background-color: #FFEBEB
+    background-color: #FFEBEB;
 }
-img.resize {
-    width:20%; /* you can use % */
-    height: auto;
+p {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
 }
