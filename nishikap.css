@@ -42,8 +42,10 @@ a {
     letter-spacing: 5px;
     line-height: 26.4px;
     text-decoration: none;
-    display: block; 
-    padding: 4px; 
+    display: block;
+    padding-top: 1px; 
+    padding-left: 8px;
+    padding-right: 8px;
     /* background-color: #FFEBEB; */
     margin-right: 10%;
 }
